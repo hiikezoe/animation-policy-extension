@@ -1,0 +1,18 @@
+{
+  "animation_policy": {
+    "message": "Animation Policy:",
+    "description": "Animation Policy:"
+  },
+  "animation_allowed": {
+    "message": "Allow all animated images.",
+    "description": "Allow all animated images."
+  },
+  "animation_once": {
+    "message": "Allow animated images, but only once.",
+    "description": "Allow animated images, but only once."
+  },
+  "animation_none": {
+    "message": "Disable all image animation.",
+    "description": "Disable all image animation."
+  }
+}

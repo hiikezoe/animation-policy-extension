@@ -1,0 +1,14 @@
+{
+  "description": "Change the behavior of animated images",
+  "manifest_version": 2,
+  "name": "AnimationPolicy",
+  "version": "1.0",
+  "default_locale": "en",
+  "permissions": [
+    "browserSettings"
+  ],
+  "browser_action": {
+    "default_icon": "animation.png",
+    "default_popup": "popup.html"
+  }
+}
